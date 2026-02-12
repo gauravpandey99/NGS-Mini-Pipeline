@@ -1,0 +1,13 @@
+====================================
+Starting NGS Mini Pipeline...
+====================================
+Step 1: Counting Reads
+Total lines: 12
+Total reads: 3
+------------------------------------
+Step 2: Calculating GC Content
+Total Bases: 42
+GC Count: 19
+GC Percentage: 45.00%
+------------------------------------
+Pipeline Completed Successfully!
