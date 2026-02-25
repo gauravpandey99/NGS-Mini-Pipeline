@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NGS Mini Pipeline v2
 
 ## Overview
@@ -31,3 +32,30 @@ FASTQ → FastQC → BWA Alignment → SAM → BAM → Sorted BAM → Indexed BA
 ## Author
 Gaurav Pandey
 M.Sc Biotechnology
+=======
+# NGS Mini Pipeline
+
+Author: Gaurav Pandey
+
+This project simulates a beginner-to-industry level NGS variant calling workflow.
+
+Pipeline Overview:
+
+FASTQ → Quality Check → Alignment → BAM Processing → Variant Calling → VCF
+
+Tools:
+- Linux
+- Bash
+- Python
+- SAMtools (later)
+- BWA (later)
+
+Project Structure:
+
+raw_data/      - Input FASTQ files
+reference/     - Reference genome
+scripts/       - Pipeline scripts
+results/       - Output files
+logs/          - Execution logs
+docs/          - Documentation
+>>>>>>> e53c19a5cd64a705a5d84a5958faceaa68c873c9
