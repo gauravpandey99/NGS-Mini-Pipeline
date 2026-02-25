@@ -1,0 +1,22 @@
+# Raw sequencing data
+raw_data/
+
+# Alignment files
+alignment/
+
+# Reference genome files
+reference/
+
+# QC output
+qc_reports/
+
+# Variant files
+variants/
+
+# Large bioinformatics formats
+*.bam
+*.bai
+*.bcf
+*.vcf
+*.gz
+*.zip
